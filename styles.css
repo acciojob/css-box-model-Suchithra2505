@@ -1,11 +1,9 @@
 
 /* Your CSS Code here. */
-.box1{
-	width:300px;
-}
+
 .box4{
 	width:300px;
-	background-color:lightblue;
+	background-color:rgb(173, 216, 230);
 	border:15px solid blue;
 	margin:20px;
 	
